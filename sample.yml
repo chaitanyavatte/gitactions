@@ -41,5 +41,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: smaple lines
-        run: 
-          echo this is the sample line in test action jobs
+        run: echo this is the sample line in test action jobs
